@@ -8,7 +8,7 @@
       "glowClass": "node-glow-cyan",
       "textClass": "text-primary",
       "borderClass": "border-primary",
-      "description": "Operations coordina i processi, l'esecuzione e la delivery del network.",
+      "description": "The Operations department is the backbone of our organization, building the digital backbone of our community, from our platform to hackathon tools and internal automation, while ensuring our processes run smoothly and positioning START Milan for long-term success financially, legally, and operationally.",
       "lead": {
         "name": "Gabriele Marmo",
         "role": "Head of Operations",
@@ -50,7 +50,7 @@
       "glowClass": "node-glow-magenta",
       "textClass": "text-accent-magenta",
       "borderClass": "border-accent-magenta",
-      "description": "Growth guida la strategia di espansione, marketing e visibilità.",
+      "description": "Growth is crafting the narrative of Milan's startup scene through design and storytelling, while finding creative and fun ways to engage our ecosystem, communicate START Milan's values, vision, and happenings, and build strong connections with students, industry partners, universities, and other initiatives.",
       "lead": {
         "name": "Lead Growth",
         "role": "Head of Growth",
@@ -84,7 +84,7 @@
       "glowClass": "node-glow-cyan",
       "textClass": "text-primary",
       "borderClass": "border-primary",
-      "description": "Events progetta e coordina gli eventi chiave della community.",
+      "description": "Our events are the key to a strong community and an active network. By organizing diverse events we tailor to the interests of our members, thus provide an opportunity to gain new knowledge, skills and experiences that promote growth and innovation.",
       "lead": {
         "name": "Lead Events",
         "role": "Head of Events",
@@ -144,7 +144,7 @@
       "glowClass": "node-glow-white",
       "textClass": "text-white",
       "borderClass": "border-white/60",
-      "description": "People cura la cultura, il recruiting e il benessere del team.",
+      "description": "We find the raw diamonds in the Milan's startup ecosystem, work hard with you to take the next step in your entrepreneurial journey, and most importantly, we build a community that feels like a family!",
       "lead": {
         "name": "Lead People",
         "role": "Head of People",
